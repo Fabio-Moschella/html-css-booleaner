@@ -1,0 +1,23 @@
+.main-header {
+  background-color: rgb(67, 125, 233);
+
+  background-image: url(../images/pattern.png);
+}
+
+.logo {
+  color: white;
+  width: 180px;
+  padding-top: 25px;
+  padding-left: 3px;
+}
+h1 {
+  font-weight: 900;
+  font-size: xx-large;
+  margin-bottom: 0%;
+}
+address {
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+  font-weight: 700;
+}
